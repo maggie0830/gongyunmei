@@ -20,3 +20,10 @@ ________install done
 env:
 vim ~/.bash_profile 
 export PYTHONPATH=/usr/local/lib/python3.6/site-packages:$PYTHONPATH
+
+
+
+_________________________----___________________________
+
+https://www.gitbook.com/explore?page=0&lang=zh  explore gitbook
+_____________________________--_____________________________
