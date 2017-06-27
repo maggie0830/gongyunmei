@@ -31,3 +31,7 @@ _____________________________--_____________________________
 http://yaafe.sourceforge.net
 ————————————————————————————————————
 http://www.pc6.com/mac/137960.html  macdown for mac :編輯 markdown 的軟體。 免費。
+
+
+——————————————————————————
+https://conda.io/docs/test-drive.html anaconda环境配置
